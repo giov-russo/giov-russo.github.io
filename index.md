@@ -1,4 +1,4 @@
-<img src="assets/img/profile.jpg" alt="Giovanni Russo" width="180">
+<img src="assets/img/profile.jpeg" alt="Giovanni Russo" width="180">
 
 # Giovanni Russo
 
