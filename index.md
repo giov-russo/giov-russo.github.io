@@ -13,7 +13,7 @@ My work combines numerical simulations, kinetic Monte Carlo methods, scaling ana
 - [Publications](publications.md)
 - [Talks and conferences](talks.md)
 - [Code](code.md)
-- [CV](cv.md)
+- [CV](cv.md) / [PDF](assets/pdf/Giovanni_Russo_CV.pdf) 
 
 ## Contact
 - Email: [giovanni.russo@universite-paris-saclay.fr](mailto:giovanni.russo@universite-paris-saclay.fr)
