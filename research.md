@@ -8,6 +8,14 @@ I study the dynamics of driven elastic interfaces in random media, with a partic
 
 In this regime, motion is extremely slow and proceeds through rare thermally activated events followed by deterministic relaxation. My recent work focuses on the separation between two distinct length scales: the thermal activation nucleus, which controls the Arrhenius timescale, and the avalanche scale, which controls spatial correlations after activation.
 
+<p align="center">
+  <img src="assets/img/creep_dijkstra_kmc_vmc_triptych.png" alt="Effective creep dynamics: Dijkstra, KMC and VMC" width="720">
+</p>
+
+<p align="center">
+  <em>Effective finite-temperature creep dynamics: candidate activated rearrangements are identified by a Dijkstra-type search, one event is selected through kinetic Monte Carlo, and the interface then relaxes deterministically to a new metastable state.</em>
+</p>
+
 ## Amorphous plasticity
 
 I also work on coarse-grained elastoplastic models of amorphous solids. These models describe plastic deformation as a sequence of local rearrangements coupled by long-range elastic interactions.
