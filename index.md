@@ -1,3 +1,5 @@
+<img src="assets/img/profile.jpg" alt="Giovanni Russo" width="180">
+
 # Giovanni Russo
 
 PhD student in theoretical and computational statistical physics  
