@@ -1,5 +1,3 @@
-# Giovanni Russo
-
 PhD student in theoretical and computational statistical physics  
 LPTMS, Université Paris-Saclay, CNRS  
 PMMH, ESPCI Paris, Université PSL, Sorbonne Université, Université Paris Cité, CNRS 
