@@ -11,7 +11,7 @@ My work combines numerical simulations, kinetic Monte Carlo methods, scaling ana
 
 - [Research](research.md)
 - [Publications](publications.md)
-- [Talks](talks.md)
+- [Talks and conferences](talks.md)
 - [Code](code.md)
 - [CV](cv.md)
 
