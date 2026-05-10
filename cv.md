@@ -24,4 +24,4 @@ PMMH, ESPCI Paris, Université PSL, Sorbonne Université, Université Paris Cit�
 
 ## Contact
 
-Email: [giovanni.russo@universite-paris-saclay.fr](mailto:giovanni.russo@universite-paris-saclay.fr)
+Email: giovanni.russo at universite-paris-saclay.fr
