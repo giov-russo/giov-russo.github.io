@@ -11,7 +11,7 @@ My work combines numerical simulations, kinetic Monte Carlo methods, scaling ana
 
 - [Research](research.md)
 - [Publications](publications.md)
-- [Talks and conferences](talks.md)
+- [Talks, Conferences and Seminars](talks.md)
 - [Code](code.md)
 - [CV](cv.md) / [PDF](assets/pdf/Giovanni_Russo_CV.pdf) 
 
